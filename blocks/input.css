@@ -48,6 +48,8 @@ body {
 .input__group {
   display: flex;
   flex-direction: column;
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
   width: 16rem; 
   font-size: 0.75rem;   
 }
@@ -63,7 +65,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 2rem;
+  height: 1.5rem;
   background-color: var(--background-input-white);
   border: 0.0625rem solid;
   border-radius: 0.25rem;
